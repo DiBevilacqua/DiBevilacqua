@@ -1,6 +1,6 @@
 ### Olá, Sou Diego! 😊
 
-Sobre o Diego
+###### Sobre o Diego
 #### Sou um profissional com vasta experiência comercial em transição de carreira para área de tecnologia, com foco em Análise de dados. Por onde passei sempre fui apaixonado em transformar desafios em oportunidades e ajudar as empresas e meus colegas de trabalho a encontrar soluções sempre baseadas em pensamentos mais analíticos.
 
 #### Sobre minha trajetória profissional: 💼 📊 📈

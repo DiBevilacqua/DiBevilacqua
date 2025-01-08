@@ -18,3 +18,7 @@ You can click the Preview link to take a look at your changes.
 ### Detalhes 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiBevilacqua&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DiBevilacqua&repo=Portifólio_Buscando_Dados.ipynb.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
